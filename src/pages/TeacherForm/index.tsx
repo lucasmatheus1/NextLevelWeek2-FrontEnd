@@ -9,7 +9,7 @@ function TeacherForm() {
       <PageHeader title="Que incrível que você quer dar aulas">
         <form id="search-teachers">
           <div className="input-block">
-            <label htmlFor="subject">Matéria</label>
+            <label htmlFor="subject">Algo</label>
             <input type="text" id="subject" />
           </div>
 
